@@ -1,0 +1,46 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  width: 50px;
+  border-radius: 4px;
+  height: 25px;
+
+}
+
+/* CSS for action buttons */
+.action-buttons button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 4px 10px; 
+  border: none;
+  border-radius: 4px;
+  width: 50px;
+  border-radius: 4;
+  height: 20px;
+  padding-bottom: 10px;
+  
+}
+.but1{
+  height: 15px;
+  width: 1px;
+  
+}
+.but2{
+  height: 15px;
+  width: 11px;
+}
+.but3{
+  height: 15px;
+  width: 1px;
+}
+
+/* .action-buttons button:hover {
+  background-color: #45a049;
+  width: 10px;
+} */
